@@ -1,0 +1,17 @@
+.grid{
+    height: 400px;
+    display: grid;
+    grid-template-columns: repeat(2,50%); /* grid pour faire 2 colones*/
+    border:1px solid black;
+}
+.bloc2{
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    grid-template-rows: repeat(14,40px);
+    border: 1px solid red;
+    overflow: hidden;
+img{
+    border: 1px solid green;
+    }
+
+}
