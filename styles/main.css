@@ -10,8 +10,10 @@
     grid-template-rows: repeat(14,40px);
     border: 1px solid red;
     overflow: hidden;
+}
 img{
     border: 1px solid green;
     }
-
-} 
+.imgProduct{
+    height: 350px;
+}
